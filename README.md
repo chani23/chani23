@@ -25,6 +25,13 @@ Here are some ideas to get you started:
    <br/>
    <br/>
 
+   <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chani23&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
+   <br/>
+   <br/>
+   <br/>
+ </div>
+
 - 🔭 I’m currently studying at
   -   Hanyange University
 - 🌱 I’m currently learning <br/>
@@ -32,8 +39,7 @@ Here are some ideas to get you started:
   - Rust Programming / Embedded
     
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chani23&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
+
 
 
   [LinkedIn](https://www.linkedin.com/in/chani-kim-70a0602a1/)
