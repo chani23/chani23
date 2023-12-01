@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=Kim%20Chani&animation=scaleIn)
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chani23&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" />
