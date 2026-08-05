@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   -   Hanyange University
 - 🌱 I’m currently learning <br/>
   - Bachelors of Automotive Engineering
-  - Rust Programming / Embedded
+  - Programming / Embedded
     
 
 
